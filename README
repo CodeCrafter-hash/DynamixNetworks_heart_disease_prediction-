@@ -1,0 +1,46 @@
+Heart Disease Prediction
+Internship / Academic Project – Data Analytics & Machine Learning
+
+This project analyzes patient health records to predict the likelihood of heart disease using data analytics and machine learning. It combines EDA, feature analysis, and predictive modeling to identify at-risk patients.
+
+🧰 Tools Used
+
+Python (Pandas, NumPy)
+
+Matplotlib, Seaborn
+
+Scikit-learn (Logistic Regression, Random Forest, SVC)
+
+Google Colab / Jupyter Notebook
+
+📊 Key Insights
+
+Age, cholesterol, blood pressure, and maximum heart rate are important predictors of heart disease.
+
+Male patients have a slightly higher risk than female patients in the dataset.
+
+Correlation analysis identifies key features that strongly influence heart disease prediction.
+
+Random Forest achieves high accuracy compared to other models.
+
+Confusion matrix highlights correctly and incorrectly classified cases for model evaluation.
+
+📁 Dataset
+
+Kaggle - Heart Disease UCI
+
+Features: Demographic (age, sex) & Clinical / Medical tests (cholesterol, blood pressure, max heart rate, etc.)
+
+Target: target (0 = No heart disease, 1 = Heart disease)
+
+👩‍💻 Submitted by
+
+YARRABATHINA JAHNAVI
+Data Analytics / Machine Learning Enthusiast
+
+
+
+
+
+
+
